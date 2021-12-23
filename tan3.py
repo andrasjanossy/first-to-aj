@@ -1,0 +1,1 @@
+print("Ez a harmadik kiserlet")
