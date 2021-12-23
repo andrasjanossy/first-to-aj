@@ -1,1 +1,1 @@
-print(""Hogy vagy?)
+print("Hogy vagy?")
